@@ -124,7 +124,7 @@ let letNumber = 2;
   varNumber = 11; //* Global degiskenlere veri yaziyoruz
   letNumber = 22;
 }
-//* Global degiskenleri okuyoruz.
+//* Global degiskenleri okuyoruz
 console.log(varNumber, letNumber);
 
 console.log("**********************");
